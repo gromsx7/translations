@@ -9689,6 +9689,9 @@ var languages = {
 			name:"NickGYVER",
 			link:"http://steamcommunity.com/id/nekit9532/"
 		},{
+			name:"gromsx7",
+			link:"http://steamcommunity.com/id/gromsx7/"
+		},{
 			name:"NiranV",
 			link:"https://steamcommunity.com/profiles/76561197971307159/"
 		},{
